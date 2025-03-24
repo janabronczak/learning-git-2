@@ -1,0 +1,14 @@
+janab@LAPTOP-582P7O18 MINGW64 /c/projects/learning-git-2 (master)
+$ npm exec html-validate index.html
+
+C:\projects\learning-git-2\index.html
+  15:41  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 1 problem (1 error, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
+
+janab@LAPTOP-582P7O18 MINGW64 /c/projects/learning-git-2 (master)
+$
